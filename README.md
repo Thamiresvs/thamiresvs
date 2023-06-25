@@ -13,5 +13,3 @@ I'm Thamires, a front-end developer with 4 years of experience in web project de
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamiresvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=tre"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresvs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/thamiresvs/thamiresvs/blob/output/github-contribution-grid-snake.svg)
