@@ -9,4 +9,7 @@ I'm Thamires, a front-end developer with 4 years of experience in web project de
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamiresvasconcelos/)  [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/P4XzHogliHXS)
 
 # 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiresvs&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresvs&layout=compact)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamiresvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=tre"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresvs&layout=compact&langs_count=16&theme=dracula"/>
+</div>
