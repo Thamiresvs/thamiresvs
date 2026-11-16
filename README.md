@@ -51,8 +51,8 @@ Currently focused on modern front-end architecture, high-availability financial 
 | :--- | :--- | :--- |
 | **[CafeSwipe](https://github.com/Thamiresvs/cafeswipe-geolocator)** | Angular 18+, Signals, Tailwind CSS, Google Places SDK | Geolocation-based discovery app replacing legacy touch libraries with native Pointer Events API, full keyboard accessibility, and reactive `localStorage` persistence. |
 | **[VoxFlow AI](https://github.com/Thamiresvs/voxflow-voice-assistant)** | React, TypeScript, Web Audio API, Node.js | Full-duplex conversational voice assistant with hardware echo cancellation, real-time *barge-in* interruption, 60fps HTML5 Canvas `AnalyserNode` visualizer, and zero-leak BFF Signed URL proxy. |
-| **[EdgeVision — Not Hotdog](https://github.com/Thamiresvs/edgevision-not-hotdog)** | React, TypeScript, Transformers.js, WebGPU/WASM | 100% client-side Vision Transformer (ViT) image classification running inside a Dedicated Web Worker for zero main-thread blocking and zero cloud inference cost. |
-| **Elas Fazem** *(In active development)* | Angular, TypeScript, Tailwind CSS, Supabase | Service marketplace platform built for women, featuring auth, provider discovery, quote requests, and integrated real-time messaging. |
+| **[EdgeVision — Not Hotdog](https://github.com/Thamiresvs/edgevision-not-hot)** | React, TypeScript, Transformers.js, WebGPU/WASM | 100% client-side Vision Transformer (ViT) image classification running inside a Dedicated Web Worker for zero main-thread blocking and zero cloud inference cost. |
+| **[Elas Fazem](https://github.com/Thamiresvs/elas-fazem)** *(In active development)* | Angular, TypeScript, Tailwind CSS, Supabase | Service marketplace platform built for women, featuring auth, provider discovery, quote requests, and integrated real-time messaging. |
 | **Web ERP MVP** *(In active development)* | Angular, TypeScript, REST APIs | Modular business management web application designed for small commercial businesses and service providers. |
 
 ---
