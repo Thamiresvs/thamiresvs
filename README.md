@@ -19,6 +19,8 @@ Currently focused on modern front-end architecture, high-availability financial 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Native Federation](https://img.shields.io/badge/Native_Federation-0F172A?style=for-the-badge&logo=webpack&logoColor=38BDF8)
 
 **Cloud, DevOps, BaaS & Databases**  
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -49,6 +51,7 @@ Currently focused on modern front-end architecture, high-availability financial 
 
 | Project | Core Stack | Architectural Highlights |
 | :--- | :--- | :--- |
+| **[FinCore Banking MFE](https://github.com/Thamiresvs/angular-native-federation-banking-mfe)** | Angular 18+, Native Federation, Signals, TypeScript, Azure DevOps | Enterprise banking Micro Frontend architecture featuring runtime manifest discovery (`federation.manifest.json`), circuit-breaker fallback UI, and decoupled `CustomEvent` bus across Host and Remotes. |
 | **[CafeSwipe](https://github.com/Thamiresvs/cafeswipe-geolocator)** | Angular 18+, Signals, Tailwind CSS, Google Places SDK | Geolocation-based discovery app replacing legacy touch libraries with native Pointer Events API, full keyboard accessibility, and reactive `localStorage` persistence. |
 | **[VoxFlow AI](https://github.com/Thamiresvs/voxflow-voice-assistant)** | React, TypeScript, Web Audio API, Node.js | Full-duplex conversational voice assistant with hardware echo cancellation, real-time *barge-in* interruption, 60fps HTML5 Canvas `AnalyserNode` visualizer, and zero-leak BFF Signed URL proxy. |
 | **[EdgeVision — Not Hotdog](https://github.com/Thamiresvs/edgevision-not-hot)** | React, TypeScript, Transformers.js, WebGPU/WASM | 100% client-side Vision Transformer (ViT) image classification running inside a Dedicated Web Worker for zero main-thread blocking and zero cloud inference cost. |
