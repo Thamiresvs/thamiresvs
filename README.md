@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Thamires Vasconcelos
 
-**Senior Frontend Engineer** with 5+ years of experience architecting scalable, high-performance web and hybrid applications. Specialized in **Angular, React, and TypeScript**, with a strong focus on reactive state management, UI/UX engineering, Web APIs, and modern frontend architecture.
+**Senior Frontend Engineer** with 5+ years of experience architecting scalable, high-performance web and hybrid applications. Specialized in **Angular and TypeScript**, with solid hands-on experience in **React**, reactive state management, UI/UX engineering, Web APIs, and BaaS integrations (**Supabase**).
 
 ---
 
@@ -8,9 +8,9 @@
 
 **Frontend Core & Styling**  
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-**Backend Integration, APIs & Workflow**  
+**Backend Integration, BaaS & Workflow**  
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -38,11 +38,11 @@
 
 | Project | Core Stack | Architectural Highlights |
 | :--- | :--- | :--- |
-| **[VoxFlow AI](https://github.com/Thamiresvs/voxflow-voice-assistant)** | React, TypeScript, Web Audio API, Node.js | Full-duplex conversational voice assistant with hardware echo cancellation, real-time *barge-in* interruption, 60fps HTML5 Canvas `AnalyserNode` visualizer, and zero-leak BFF Signed URL proxy. |
 | **[CafeSwipe](https://github.com/Thamiresvs/cafeswipe-geolocator)** | Angular 18+, Signals, Tailwind CSS, Google Places SDK | Geolocation-based discovery app replacing legacy touch libraries with native Pointer Events API, keyboard accessibility, and reactive `localStorage` persistence. |
+| **[VoxFlow AI](https://github.com/Thamiresvs/voxflow-voice-assistant)** | React, TypeScript, Web Audio API, Node.js | Full-duplex conversational voice assistant with hardware echo cancellation, real-time *barge-in* interruption, 60fps HTML5 Canvas `AnalyserNode` visualizer, and zero-leak BFF Signed URL proxy. |
 | **[EdgeVision — Not Hotdog](https://github.com/Thamiresvs/edgevision-not-hotdog)** | React, TypeScript, Transformers.js, WebGPU/WASM | 100% client-side Vision Transformer (ViT) image classification running inside a Dedicated Web Worker for zero main-thread blocking and zero cloud inference cost. |
 | **Elas Fazem** *(In active development)* | Angular, TypeScript, Tailwind CSS, Supabase | Service marketplace platform built for women, featuring auth, provider discovery, quote requests, and integrated messaging. |
-| **Web ERP MVP** | Angular / React, TypeScript, REST APIs | Modular business management web application designed for small commercial businesses and service providers. |
+| **Web ERP MVP** | Angular, TypeScript, REST APIs | Modular business management web application designed for small commercial businesses and service providers. |
 
 ---
 
