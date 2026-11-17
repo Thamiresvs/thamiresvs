@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Thamires Vasconcelos
 
-**Senior Front-End Engineer** with **5+ years of experience** architecting, developing, and evolving mission-critical web applications across **banking, healthcare, government, and enterprise** sectors. Specialized in **Angular (v2 to v19+)**, **TypeScript**, **Micro Frontend Architecture (Native Federation / Module Federation)** and **reusable component libraries / Design Systems**.
+**Senior Front-End Developer** with **5+ years of experience** architecting, developing, and evolving mission-critical web applications across **banking, healthcare, government, and enterprise** sectors. Specialized in **Angular (v2 to v19+)**, **TypeScript**, **Micro Frontend Architecture (Native Federation / Module Federation)** and **reusable component libraries / Design Systems**.
 
 Currently focused on modern front-end architecture, high-availability financial interfaces in **Azure DevOps** environments, and **AI-assisted software engineering**.
 
